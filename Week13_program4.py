@@ -1,4 +1,4 @@
-# Claire Francis, May 1, 2025, Week13_program4
+# Claire Francis, May 3, 2025, Week13_program4
 #Write a program that creates a database named phonebook.db.
 # The database should have a table named Entries, with columns for a person’s name and phone number.
 # Next, write a CRUD application that lets the user add rows to the Entries table,
